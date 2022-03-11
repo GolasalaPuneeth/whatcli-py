@@ -1,2 +1,0 @@
-twilio==7.7.1
-APScheduler==3.9.1
